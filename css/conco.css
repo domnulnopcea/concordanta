@@ -1,0 +1,101 @@
+.result_verse {
+    font-size: 18px;
+    font-family: Georgia, serif;
+    margin-bottom: 4px;
+}
+
+.headerBar {
+    background-image: url('./../img/back.gif');
+    padding-bottom: 3px;
+}
+
+.inputTextAreaLarge {
+    width: 650px;
+    height: 50px;
+    padding: 0;
+    border: 1;
+}
+
+.inputText {
+    width: 250px;
+    height: 19px;
+}
+
+.error {
+    color: red;
+}
+
+.headerPageTextSmall {
+    color: #333333;
+    font: 17px Trebuchet MS, sans-serif;
+    white-space: nowrap;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: left;
+    padding-left: 2px;
+}
+
+.backgroundFormSmall {
+    background: url("./../img/back2.gif");
+    background-repeat: repeat;
+    border-bottom: 0.5px solid #F2F2F2;
+    background-color: #FAFAFA;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #EAEAEA;
+    border-right-color: #EAEAEA;
+    border-bottom-color: #EAEAEA;
+    border-left-color: #EAEAEA;
+    margin: 0.5em 0;
+    margin-top: 0.5em;
+    margin-right: 0px;
+    margin-bottom: 0.5em;
+    margin-left: 0px;
+    padding: 0 2px 2px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-bottom: 4px;
+}
+
+.backgroundForm {
+    background: url("./../img/back2.gif");
+    background-repeat: repeat;
+    border-bottom: 0.5px solid #F2F2F2;
+    background-color: #FAFAFA;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #EAEAEA;
+    border-right-color: #EAEAEA;
+    border-bottom-color: #EAEAEA;
+    border-left-color: #EAEAEA;
+    margin: 0.5em 0;
+    margin-top: 0.5em;
+    margin-right: 3px;
+    margin-bottom: 0.5em;
+    margin-left: 0px;
+    padding: 0 8px 8px;
+    padding-top: 16px;
+    padding-right: 8px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+}
+
+.pagination {
+    text-align: right;
+}
+
+.tdElement {
+    border-bottom: 1px solid #DDDDDD;
+}
